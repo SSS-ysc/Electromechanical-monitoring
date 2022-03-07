@@ -1,0 +1,9 @@
+.\objects\bitmap.o: ..\MY\bitmap.c
+.\objects\bitmap.o: ..\emWin\inc\GUI.h
+.\objects\bitmap.o: ..\emWin\inc\GUI_ConfDefaults.h
+.\objects\bitmap.o: ..\emWin\Config\GUIConf.h
+.\objects\bitmap.o: ..\emWin\inc\GUI_Type.h
+.\objects\bitmap.o: ..\emWin\inc\LCD.h
+.\objects\bitmap.o: ..\emWin\inc\Global.h
+.\objects\bitmap.o: ..\emWin\inc\GUI_Version.h
+.\objects\bitmap.o: E:\Keil-MDK\Keil-v5\ARM\ARMCC\Bin\..\include\stdlib.h

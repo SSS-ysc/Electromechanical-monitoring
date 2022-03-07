@@ -1,0 +1,9 @@
+.\objects\yzubitmap.o: ..\MY\yzubitmap.c
+.\objects\yzubitmap.o: E:\Keil-MDK\Keil-v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\yzubitmap.o: ..\emWin\inc\GUI.h
+.\objects\yzubitmap.o: ..\emWin\inc\GUI_ConfDefaults.h
+.\objects\yzubitmap.o: ..\emWin\Config\GUIConf.h
+.\objects\yzubitmap.o: ..\emWin\inc\GUI_Type.h
+.\objects\yzubitmap.o: ..\emWin\inc\LCD.h
+.\objects\yzubitmap.o: ..\emWin\inc\Global.h
+.\objects\yzubitmap.o: ..\emWin\inc\GUI_Version.h
